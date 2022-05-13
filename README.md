@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jai3456
+- 👋 Hi, I’m @jai3426
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning competative programming
 - 💞️ I’m looking to collaborate on ...
